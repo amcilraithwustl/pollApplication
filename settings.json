@@ -1,0 +1,15 @@
+{
+  "github": {
+    "secret": "97dece02c726e335feb855840632a2eb6afbc25d",
+    "id": "a6f41e8666eab1da6d7e"
+  },
+  "google": {
+    "secret": "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",
+    "id":
+    "660403956908-7dkkbl5n5epn9v4u2h9uc7eiq0oksdgo.apps.googleusercontent.com"
+  },
+  "facebook": {
+    "id": "357055383053124",
+    "secret": "2c4ea123a37615b8bf516970f0337834"
+  }
+}
